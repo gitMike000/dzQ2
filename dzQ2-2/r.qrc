@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file alias="C++">res/cpp.png</file>
+        <file alias="C#">res/cnet.png</file>
+        <file alias="Java">res/java.png</file>
+        <file alias="JavaScript">res/js.png</file>
+        <file alias="PHP">res/php.png</file>
+        <file alias="Python">res/python.png</file>
+    </qresource>
+</RCC>
